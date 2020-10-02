@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\USER\source\repos\dynamic_cast\dynamic_cast\Source.cpp(10,1): warning C4436: dynamic_cast from virtual base 'V' to 'B' in constructor or destructor could fail with partially-constructed object
+C:\Users\USER\source\repos\dynamic_cast\dynamic_cast\Source.cpp(10,1): message : Compile with /vd2 or define 'B' with #pragma vtordisp(2) in effect
+  dynamic_cast.vcxproj -> C:\Users\USER\source\repos\dynamic_cast\Debug\dynamic_cast.exe
